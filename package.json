@@ -1,0 +1,13 @@
+{
+  "name": "random-fastfood",
+  "version": "0.0.1",
+  "description": "a fun little package that will give you random fastfood",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Success: dummy build process\"",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "harsh zalavadiya",
+  "license": "MIT"
+}
